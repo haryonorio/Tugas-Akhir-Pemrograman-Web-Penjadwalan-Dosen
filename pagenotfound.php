@@ -2,7 +2,7 @@
 <html>
  <head>
     <meta charset="utf-8">
-    <title>IDS Akademik</title>
+    <title>Penjadwalan Dosen</title>
 	<!-- Icon -->
 	<link rel="shortcut icon" type="image/icon" href="../favicon.ico">
     <!-- Tell the browser to be responsive to screen width -->
